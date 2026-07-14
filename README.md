@@ -7,3 +7,5 @@ Welcome to my project.
 - Dashboard
 - Reports
 - Questions
+- Answers
+- Documentation
